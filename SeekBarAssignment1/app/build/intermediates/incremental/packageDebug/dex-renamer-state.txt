@@ -1,0 +1,7 @@
+#Fri Nov 25 08:31:10 IST 2016
+base.0=D\:\\workspace\\workbook1\\SeekBarAssignment1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b2cde3a7a4619cfafd3f79e899e76bd8fc97b0f2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\workspace\\workbook1\\SeekBarAssignment1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a7c5400311edda1d4654b4fcb37417d9ff5ce8ed\\classes.dex
+base.1=D\:\\workspace\\workbook1\\SeekBarAssignment1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a7c5400311edda1d4654b4fcb37417d9ff5ce8ed
+file.0=D\:\\workspace\\workbook1\\SeekBarAssignment1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b2cde3a7a4619cfafd3f79e899e76bd8fc97b0f2\\classes.dex

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SpinnerviewAssignment</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="items">
+        <item>Samsung</item>
+        <item>Iphone</item>
+        <item>Micromax</item>
+        <item>Motorola</item>
+        <item>Sony Xperia</item>
+        <item>Microsoft</item>
+    </string-array>
+    
+</resources>

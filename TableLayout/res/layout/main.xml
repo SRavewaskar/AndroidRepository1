@@ -1,0 +1,43 @@
+<TableLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_height="fill_parent"
+android:layout_width="fill_parent"
+>
+<TableRow>
+<TextView
+	android:text="User Name:"
+	android:width ="75px"
+	android:textSize="14dp"
+	android:textStyle="bold"
+	/>
+	<EditText
+	android:width="175px" />
+	
+</TableRow>
+<TableRow>
+	<TextView
+	android:text="Password:"
+	android:textSize="14dp"
+	android:textStyle="bold"
+	/>
+	<EditText
+	android:password="true"
+	/>
+</TableRow>
+<TableRow>
+	<TextView />
+	<CheckBox 
+	android:text="Remember Password"
+	/>
+</TableRow>
+<TableRow>
+<Button
+android:text="Log In" />
+</TableRow>
+</TableLayout>
+
+
+
+
+
+

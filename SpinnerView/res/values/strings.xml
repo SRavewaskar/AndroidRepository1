@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+<string name="hello">Hello World, MainActivity!</string>
+<string name="app_name">List of Indian States</string>
+
+<string-array name="states">
+<item>Andhra Pradesh</item>
+<item>Arunachal Pradesh</item>
+<item>Assam</item>
+<item>Bihar</item>
+<item>Chattisgarh</item>
+<item>Delhi</item>
+<item>Goa</item>
+<item>Gujarat</item>
+<item>Himachal Pradesh</item>
+<item>Haryana</item>
+<item>Jharkhand</item>
+<item>Jammu and Kashmir</item>
+<item>Kerala</item>
+<item>Karnataka</item>
+<item>Maharashtra</item>
+<item>Meghalaya</item>
+<item>Manipur</item>
+<item>Madhya Pradesh</item>
+<item>Mizoram</item>
+<item>Nagaland</item>
+<item>Orissa</item>
+<item>Punjab</item>
+<item>Rajasthan</item>
+<item>Sikkim</item>
+<item>Tamil Nadu</item>
+<item>Tripura</item>
+<item>Uttarakhand</item>
+<item>Uttar Pradesh</item>
+<item>Union territories</item>
+<item>West Bengal</item>
+</string-array>
+
+</resources>

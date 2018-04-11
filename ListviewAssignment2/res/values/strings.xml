@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListviewAssignment2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="items">
+        <item>Akshay Kumar</item>
+        <item>Amitabh Bachchan</item>
+        <item>Aamir Khan</item>
+        <item>Salman Khan</item>
+        <item>Emraan Hashmi</item>
+        <item>Shahrukh Khan</item>
+        <item>Ajay Devgan</item>
+        <item>Varun Dhawan</item>
+        <item>Ranbir Kapoor</item>
+        <item>Saif Ali Khan</item>
+    </string-array>
+    
+</resources>
